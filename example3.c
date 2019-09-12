@@ -1,6 +1,0 @@
-sdlvnsiv
-dsvsdvnsvs
-voiddsv
-__STDC_VERSION__sv
-s
-v
