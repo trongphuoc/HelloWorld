@@ -5,5 +5,6 @@ void main()
 	printf("Good bye \n");
 	printf("Git tutor \n");
 	printf("Phuoc 1620188 \n");
+	printf("Phuoc HCMUS \n")
 }
 
